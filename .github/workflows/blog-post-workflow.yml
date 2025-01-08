@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.luziyang.cn/feed/"
-          date_format: "mmm d, yyyy"
-          template: "$newline #### - [$title]($url) $date $newline"
+          date_format: "yyyy/mm/dd"
+          template: "$newline #### - [$title]($url) &nbsp;$date $newline"
           
