@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://blog.luziyang.cn/feed/"
           date_format: "%Y-%m-%d"
-          template: "![$title]($url) - $date"
+          template: "![$title]($url) - $date | $newline"
