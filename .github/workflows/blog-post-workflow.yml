@@ -17,4 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.luziyang.cn/feed/"
-          template: "$counter. [$title]($url) - $date"
+          date_format: "%Y-%m-%d"
+          template: "![$title]($url) - $date"
