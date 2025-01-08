@@ -8,7 +8,7 @@
 
 ### 📂 Work & Life
 
-![Static Badge](https://img.shields.io/badge/website-%E5%8D%9A%E5%AE%A2-blue?link=https%3A%2F%2Foneblog.me)
+<a href="https://oneblog.me"><img alt="Static Badge" src="https://img.shields.io/badge/website-%E5%8D%9A%E5%AE%A2-blue"></a>
 
 
 
