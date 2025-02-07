@@ -20,13 +20,13 @@
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- #### - [若坚持面向光明，则必将抛却暗影](https://blog.luziyang.cn/942.html) &nbsp;2024/11/28 
+ #### - [若坚持面向光明，则必将抛却暗影](https://oneblog.co/942.html) &nbsp;2024/11/28 
 
- #### - [甘于平庸](https://blog.luziyang.cn/941.html) &nbsp;2024/11/28 
+ #### - [甘于平庸](https://oneblog.co/941.html) &nbsp;2024/11/28 
 
- #### - [大人与小孩](https://blog.luziyang.cn/378.html) &nbsp;2023/02/12 
+ #### - [大人与小孩](https://oneblog.co/378.html) &nbsp;2023/02/12 
 
- #### - [内在的从容](https://blog.luziyang.cn/377.html) &nbsp;2022/11/24 
+ #### - [内在的从容](https://oneblog.co/377.html) &nbsp;2022/11/24 
 
- #### - [昨夜的梦](https://blog.luziyang.cn/369.html) &nbsp;2021/09/03 
+ #### - [昨夜的梦](https://oneblog.co/369.html) &nbsp;2021/09/03 
 <!-- BLOG-POST-LIST:END -->
