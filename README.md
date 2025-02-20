@@ -9,12 +9,7 @@
 
 ### ✨ Work & Life
 
-- 个人博客：<a href="https://oneblogx.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/oneblogx.com-%E5%8D%9A%E5%AE%A2-blue"></a>
+- 个人博客：<a href="https://oneblogx.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/oneblogx.com-%E5%8D%9A%E5%AE%A2-ff9900"></a>
 - 网址导航：<a href="https://coolnav.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/coolnav.com-%E9%85%B7%E5%AF%BC%E8%88%AA-267fef"></a>
 
 *欢迎关注我的个人公众号：**彼岸临窗***
-
-### 📙 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
